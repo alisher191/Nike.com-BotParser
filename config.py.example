@@ -1,0 +1,6 @@
+HEADERS = {
+    'Accept': 'Your Accept',
+    'User-Agent': 'Your User-Agent'
+}
+
+API_TOKEN = 'Your API Token'
